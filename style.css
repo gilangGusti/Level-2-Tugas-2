@@ -1,0 +1,28 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+  h1 {
+  color :#2196F3;
+  text-align : center;
+}
+h3 {
+  margin-top : 20px ;
+  padding-top : 30px;
+}
+h4 {
+  display: grid;
+  row-gap: 50px;
+  grid-template-columns: auto auto auto;
+  background-color: #2196F3;
+  padding: 10px;
+}
+li {
+  marker: 0px;
+  display: grid;
+  row-gap: 50px;
+  grid-template-columns: auto auto auto;
+  background-color: white;
+  padding: 10px 0;
+  border: 1px solid black;
+}
